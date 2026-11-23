@@ -1,0 +1,6 @@
+User-provided character illustrations, supplied 2026-10-13.
+Source: seven local PNG files under E:/完蛋我被校长包围了, supplied explicitly for this game.
+Three protagonist expressions, three Zhudi expressions, one Zhudi SD illustration.
+Transparent cutouts processed with the built-in image_gen tool. Original inputs preserved in production/art/prologue-originals.
+Runtime assets: assets/portraits/prologue/*.png.
+These are project-provided artwork, not asserted to be CC0 or covered by the code license.

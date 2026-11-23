@@ -1,0 +1,17 @@
+# 完整游戏资源只放 GitHub Release；普通 Git 仓库保留占位说明。
+/web/*
+!/web/README.md
+/dist/
+/.verification/
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.part
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+.DS_Store
+Thumbs.db

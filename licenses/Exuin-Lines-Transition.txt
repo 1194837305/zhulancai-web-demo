@@ -1,0 +1,6 @@
+Lines Screen Transition — Exuin, 2021-12-25
+Source: https://godotshaders.com/shader/lines-screen-transition/
+License: CC0 1.0 Universal https://creativecommons.org/publicdomain/zero/1.0/
+The source page expressly licenses the shader code CC0. No page images/videos were copied.
+Adaptation: Godot 4 source_color syntax; original project ink/teal palette.
+Used live by view/appeal_cutin.gd for battle argument/recollection cut-in reveal.

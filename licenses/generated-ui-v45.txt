@@ -1,0 +1,10 @@
+UI V4.5 generated assets - 2026-10-29
+Created with OpenAI built-in image generation, integrated non-destructively:
+- assets/portraits/prologue/zhudi-clean-v45.png: default Zhu Di portrait cleanup, existing identity reference.
+- assets/portraits/prologue/pink-sd-guide-v45.png: chibi tutorial protagonist, existing identity reference.
+- assets/ui/card-paint-v45.png: original abstract impasto card backplate; existing icon attribution is unchanged.
+Original procedurally composed stereo music: assets/audio/undertow_theme.wav and nightmare_theme.wav.
+Composer/source: tools/create_music_v45.py. No external music samples.
+Original UI/shader code and land mask authored for this project. Original art remains in project.
+Visual research only: Danganronpa / Magical Girl Witch Trials. No art, audio or characters were copied from those games.
+Prompts and source references: production/art/ui-v45/prompts.md.

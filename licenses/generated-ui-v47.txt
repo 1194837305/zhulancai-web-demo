@@ -1,0 +1,2 @@
+Zhudi default sprite v47: edited with built-in OpenAI image generation from existing project sprite zhudi-clean-v45.png; pink-default.png used only for hair-rendering quality reference. Face, clothing, pose and black hair identity preserved; broad satin highlights improved. Output zhudi-satin-v47.png; original retained.
+Verdict Good/Perfect sounds: original deterministic synthesis created for this project, no external samples.

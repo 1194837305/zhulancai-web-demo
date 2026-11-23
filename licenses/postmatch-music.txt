@@ -1,0 +1,11 @@
+Postmatch score additions / 2026-11-01
+Heartbreaking; Heartwarming; Unseen Horrors
+Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Official source: https://incompetech.com/music/royalty-free/
+Track pages: USUAN1100208, USUAN1100207, USUAN1400043
+Tracks used unmodified; in-game crossfade and playback gain only.
+Local supplied anxiety loop: KAIONDO / Kaiondo, see post-anxiety.txt.
+
+Supplied anxiety loop converted from extensible PCM24 to PCM16 for Godot compatibility.

@@ -1,0 +1,8 @@
+Year 2 generated assets — 2026-10-26
+Fourteen original PNG assets generated with built-in imagegen for this project.
+Four character atlases reference the existing protagonist/Zhudi portraits for visual style.
+Normal/collapsed north staircase is an illustrative reconstruction from the author's spatial instructions, not a photographic campus survey.
+Atlas PNGs remain unmodified; expressions are Godot AtlasTexture regions.
+Original procedural Foley and ambient sound: tools/prepare_year2_assets.py (deterministic oscillators/noise, no third-party samples).
+Existing music and campus backgrounds retain their original attribution: year1-music.txt and THIRD_PARTY.md.
+No third-party character designs or voices used.

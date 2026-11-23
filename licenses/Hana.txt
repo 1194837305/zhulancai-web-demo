@@ -1,0 +1,9 @@
+Hana School Girl / separate.zip
+Author: IAMST
+Source: https://iamst.itch.io/hana-school-girl
+License declared on author page: Creative Commons Zero (CC0)
+https://creativecommons.org/publicdomain/zero/1.0/
+Retrieved: 2026-10-09
+Files used: body without face.png, eyes/eyes.png, eyes/bliss.png,
+eyebrow/normal.png, mouth/smile.png, mouth/talking.png, nose.png.
+Renamed for project use; layered at runtime with breathing, blinking and mouth animation.

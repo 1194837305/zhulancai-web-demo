@@ -1,0 +1,9 @@
+'Hiraeth' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+Track page: https://www.scottbuckley.com.au/library/hiraeth/
+Source: https://www.scottbuckley.com.au/library/wp-content/uploads/2020/06/sb_hiraeth.mp3
+License: https://creativecommons.org/licenses/by/4.0/
+Verified and retrieved 2026-10-30. Original MP3 unmodified; reduced playback
+volume and game-side crossfades. Attribution also appears in game settings.
+
+be-recall.wav, be-turn.wav, be-bus.wav: original deterministic synthesis created
+for this game by tools/create_be_audio_v495.py; no third-party samples.

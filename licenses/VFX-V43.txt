@@ -1,0 +1,18 @@
+# V4.3 Shader references and provenance
+
+- Waterfront: wave/refraction/absorption architecture inspired by UnionBytes, Achim Menzel (AiYori), copyright 2019. https://godotshaders.com/shader/realistic-water/ — MIT. This project implements its own compact Godot4/orthographic/Compatibility adaptation; no third-party textures or caustic arrays are downloaded.
+- Weather: layered parallax/explicit-clock approach from Brian Smith (Steampunkdemon). https://godotshaders.com/shader/rain-and-snow-with-parallax-scrolling-effect/ — MIT. Project-authored circular-cell snow and fine line rain; no other assets used.
+- Hurt: compact adaptation of ratko's CC0 noise-edged vignette. https://godotshaders.com/shader/damage-hurt-pulsing-blood-red-screen-edge/ — CC0. Palette, strength, clock and pulse behavior changed for accessibility and pastel UI.
+- Attack research: Ali, Procedural Idyllic Slash / Spellbook (copyright 2025, MIT), https://godotshaders.com/shader/procedural-idyllic-slash-2d/ and https://github.com/Alkaliii/spellbook-gd . Studied procedural sweep/progress control; did not vendor its >100 uniforms. skill_ribbon and skill_impact are independent project-authored shaders.
+- Godot4 depth conversion reference: https://docs.godotengine.org/en/stable/tutorials/shaders/advanced_postprocessing.html ; explicit OpenGL/Vulkan NDC conversion maintained.
+
+## MIT notice retained for adaptations
+
+Copyright (c) 2019 UnionBytes, Achim Menzel (AiYori)
+Copyright (c) Brian Smith (Steampunkdemon)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

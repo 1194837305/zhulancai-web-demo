@@ -1,0 +1,12 @@
+Cold open, 2026-10-25
+
+Three environment plates and one transparent character sprite were generated with the built-in OpenAI image generation tool for this project. The character input reference was the project's existing assets/portraits/prologue/zhudi-default.png. These are illustrative fictionalized environments, not surveyed architectural reconstructions or official ZUEL materials. No artwork, sprites, audio or code were extracted from Mojika, Forever 7 Days, or other reference games.
+
+Files:
+assets/backgrounds/cold-open-hall.png
+assets/backgrounds/cold-open-city.png
+assets/backgrounds/cold-open-wall.png
+assets/portraits/cold-open-president.png
+
+The camera-shutter sound is synthesized deterministically by original project code. Music continues to use existing credited assets.
+Prompts and generation-source filenames: production/art/cold-open-prompts.json

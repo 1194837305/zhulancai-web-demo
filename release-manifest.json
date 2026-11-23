@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "title": "超时空校长、于猪栏菜中重生",
+  "scope": "前两年 Web Demo",
+  "content_snapshot": "2026-11-03",
+  "packaged_on": "2026-11-23",
+  "engine": "Godot 4.7.2",
+  "variant": "threaded",
+  "files": {
+    "index.html": {
+      "bytes": 6914,
+      "sha256": "15faf5ad43c4aadede329383c4cf9e96f16b21264e8a0dafd4cb68dbaaa6d2c0"
+    },
+    "index.js": {
+      "bytes": 314653,
+      "sha256": "1e5437ee16d35bf6f8a3b28e6f70f310ee5da12acab3222a06e8c223cb61757c"
+    },
+    "index.wasm": {
+      "bytes": 38820072,
+      "sha256": "f6090f055e16765bcef5dc3a031f68ab40c151d9e7f0541d9d7eb61e92dc5051"
+    },
+    "index.pck": {
+      "bytes": 381882296,
+      "sha256": "0934bc4abdc3f42963472f68f79f61d2d1d72be02ada30b0d7d715b21ca302f5"
+    },
+    "diagnostics.js": {
+      "bytes": 4876,
+      "sha256": "2fbac73b17c2e2d9626e749ff5b5494f063f99a2115af3853715ec2d91a241fd"
+    },
+    "loading-guide.png": {
+      "bytes": 1340238,
+      "sha256": "e2143ce6eac9936c6fdd6f7a79b4fe4fa5e38136dbbb4f59a98cb6a8744b8a58"
+    },
+    "index.apple-touch-icon.png": {
+      "bytes": 11944,
+      "sha256": "01d4f63e525941e06ce74f5187dad030d20a8d52a07ce365ae4e94af97a3b1f5"
+    },
+    "index.audio.position.worklet.js": {
+      "bytes": 2973,
+      "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+    },
+    "index.audio.worklet.js": {
+      "bytes": 7298,
+      "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+    },
+    "index.icon.png": {
+      "bytes": 5700,
+      "sha256": "ad3c35ad0facf487c618204bd98db543034fc95224eadc7f08c7a9ff38d5b3b5"
+    },
+    "index.png": {
+      "bytes": 21443,
+      "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+    }
+  }
+}

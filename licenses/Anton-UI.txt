@@ -1,0 +1,4 @@
+SCIFI UI by AR / Anton Revin
+Source: https://opengameart.org/content/scifi-ui
+License: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Selected panels / button hover textures only; original PSD not included.

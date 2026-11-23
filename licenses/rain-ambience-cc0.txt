@@ -1,0 +1,11 @@
+Rain ambience recordings
+
+Outdoor: Rain (loopable), file 3.ogg, recorded and created by Ylmir.
+Source: https://opengameart.org/content/rain-loopable
+License: CC0 1.0 Universal, https://creativecommons.org/publicdomain/zero/1.0/
+Original OGG copied without modification.
+
+Indoor: Rain on Window Loop, rain_on_window_loop.wav, created by alxl.
+Source: https://opengameart.org/content/rain-on-window-loop
+License: CC0 1.0 Universal, https://creativecommons.org/publicdomain/zero/1.0/
+Original WAV copied without modification.
